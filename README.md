@@ -6,7 +6,7 @@
 - 💬 Ask me about Python, Machine Learning
 - 📫 How to reach me: r.devkota.98@gmail.com
 
-# :computer:  Rajan Devkota
+# :computer:  'Rajan Devkota'
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajandevkota98" alt="rajandevkota98" /> </p>
