@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science.
 - 👯 I’m looking to collaborate on Data Science Project.
 - 🤔 I’m looking for help in finding Internship.
-- 💬 Ask me about Python, Machine Learning
+- 💬 Ask me about Python, Machine Learning, Statistics
 - 📫 How to reach me: r.devkota.98@gmail.com
 
 # :computer:  Rajan Devkota
